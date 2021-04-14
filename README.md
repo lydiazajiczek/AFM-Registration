@@ -78,6 +78,5 @@ A test sample is provided [here](https://weiss-develop.cs.ucl.ac.uk/afm-liver-ti
 
 Note that all data is provided in the sample folders such that `validation.m` can be run immediately, however running `registration.m` or `process_AFM_data.m` will overwrite existing `registration_results.mat` and `stiffness_results.mat`, for example. 
 
-To cite this code, please use the following: [![DOI](https://zenodo.org/badge/346145853.svg)](https://zenodo.org/badge/latestdoi/346145853)
-
-
+To cite this code, please use the following: 
+[![DOI](https://zenodo.org/badge/346145853.svg)](https://zenodo.org/badge/latestdoi/346145853)
