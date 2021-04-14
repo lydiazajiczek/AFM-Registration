@@ -77,3 +77,7 @@ Tested on Windows 10 with MATLAB R2019a and R2020b.
 A test sample is provided [here](https://weiss-develop.cs.ucl.ac.uk/afm-liver-tissue-data/test_sample.zip) with the correct outputs provided in the `test_outputs` folder for comparison.
 
 Note that all data is provided in the sample folders such that `validation.m` can be run immediately, however running `registration.m` or `process_AFM_data.m` will overwrite existing `registration_results.mat` and `stiffness_results.mat`, for example. 
+
+To cite this code, please use the following: [![DOI](https://zenodo.org/badge/346145853.svg)](https://zenodo.org/badge/latestdoi/346145853)
+
+
