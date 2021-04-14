@@ -68,7 +68,7 @@ Tested on Windows 10 with MATLAB R2019a and R2020b.
     * [inpaint_nans](https://www.mathworks.com/matlabcentral/fileexchange/4551-inpaint_nans) (c) John D'Errico
     * [Fast mutual information of two images or signals](https://www.mathworks.com/matlabcentral/fileexchange/13289-fast-mutual-information-of-two-images-or-signals) (c) Jose Delpiano
     * [Natural-Order Filename Sort](https://www.mathworks.com/matlabcentral/fileexchange/47434-natural-order-filename-sort) (c) Stephen Cobeldick
-3. Download the liver samples dataset [here](https://weiss-develop.cs.ucl.ac.uk/afm-liver-tissue-data/liver_samples.zip) and extract into a folder called `liver_samples`.
+3. Download the liver samples dataset [here](https://weiss-develop.cs.ucl.ac.uk/afm-liver-tissue-data/liver_samples.zip) and extract into a folder called `liver_samples`. Note that this dataset is 46 GB in size.
 4. Change the variable `samples_path` in each of the relevant .m files to the directory location from the previous step.
 5. Change the variable `path_out` in `extract_training_patches.m` to the directory location you would like to save the training patches to.
 6. Choose which functions to run in `process_all.m` to process all samples, or run each .m file individually and set the sample names manually. 
