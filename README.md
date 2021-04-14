@@ -73,4 +73,6 @@ Tested on Windows 10 with MATLAB R2019a and R2020b.
 5. Change the variable `path_out` in `extract_training_patches.m` to the directory location you would like to save the training patches to.
 6. Choose which functions to run in `process_all.m` to process all samples, or run each .m file individually and set the sample names manually. 
 
-Note that all data is provided in the sample folders such that `validation.m` can be run immediately, however running `registration.m` or `process_AFM_data.m` will overwrite existing `registration_results.mat` and `stiffness_results.mat`, for example.
+A test sample is provided [here](https://weiss-develop.cs.ucl.ac.uk/afm-liver-tissue-data/test_sample.zip) with the correct outputs provided in the `test_outputs` folder for comparison.
+
+Note that all data is provided in the sample folders such that `validation.m` can be run immediately, however running `registration.m` or `process_AFM_data.m` will overwrite existing `registration_results.mat` and `stiffness_results.mat`, for example. 
