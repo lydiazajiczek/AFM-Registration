@@ -57,7 +57,7 @@ The provided functions expect the liver tissue data to be organized in the follo
   * ...
 
 ## Installation and Testing
-Tested on Windows 10 with MATLAB R2019a and R2020b.
+Tested on Windows 10 with MATLAB R2019a and R2020b. Note that MATLAB can take up to an hour to install on a normal desktop computer, depending on the number of toolboxes installed.
 
 1. Requires the following toolboxes to be installed:
     * Image Processing
