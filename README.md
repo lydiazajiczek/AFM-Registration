@@ -41,7 +41,7 @@ The provided functions expect the liver tissue data to be organized in the follo
 	  * ...
 	  * `stiffness_results.mat` (created by `process_AFM_data.m`)
 	* `AFM_predictions`
-	  * ... (for prediction software see (here)[https://github.com/lydiazajiczek/AFM_GAN] 
+	  * ... (for prediction software see (here)[https://github.com/lydiazajiczek/AFM_GAN]) 
 	  * `output_masked.tiff`
 	  * `validation_results.mat` (created by `validation.m`)
 	* `fresh_images`
